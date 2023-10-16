@@ -472,7 +472,7 @@ public class NewJFrame extends javax.swing.JFrame {
         try
             {
                 c = null;
-            jfc = new JFileChooser("C://Users//brian//Documents//SUMMER 2023//SWENG 311");
+            jfc = new JFileChooser("C://Users//brian//Documents//FALL 2023//SWENG 431");
             if (jfc.showOpenDialog(null) == JFileChooser.APPROVE_OPTION)
             {
                 f = jfc.getSelectedFile();
